@@ -1,4 +1,4 @@
-# Small Scale Wind Tunnel
+
 
 ![model](1.jpg)
 The motivation for building this wind tunnel was born out of my curiosity for fluid dynamics. I was particularly interested in creating a benchtop wind tunnel for flow visualization. This was also one of my very first projects involving 3D printing.
