@@ -42,6 +42,8 @@ Future iterations will involve fully redrawing the design in Autodesk Inventor, 
 The project also requires a dedicated power source for the electric fans, which is currently being supplied by a repurposed RTX power supply. This solution provides adequate current capacity.
 Once the mechanical and electrical systems are finalized, the project will be expanded to include a flow visualization system. This will consist of a device capable of generating aerosolized propylene glycol, allowing observation of airflow patterns within the test section. 
 
+### For more information and files about this project, please visit the <a href="https://github.com/eliasreyess/Small-scale-wind-tunnel">repository.</a>
+
 <p align="center">
   <a href="https://eliasreyess.github.io/eliasreyess.porfolio.io/">
     <img src="assets/download.svg" alt="back" width="32">
