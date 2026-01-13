@@ -1,3 +1,5 @@
+# Small Scale Wind Tunnel
+
 ![model](1.jpg)
 The motivation for building this wind tunnel was born out of my curiosity for fluid dynamics. I was particularly interested in creating a benchtop wind tunnel for flow visualization. This was also one of my very first projects involving 3D printing.
 To determine appropriate dimensions, I borrowed from a NASA applet published many years ago, which can be found  based the dimensions on a NASA applet, which can be found <a href="https://www.grc.nasa.gov/www/k-12/TunnelSim/index.htm" target="_blank">here.</a>.
